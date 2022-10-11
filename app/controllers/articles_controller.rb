@@ -17,6 +17,7 @@ class ArticlesController < ApplicationController
     end
   end
 
+  
   private
 
   def record_not_found
